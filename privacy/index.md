@@ -1,12 +1,10 @@
-## DETSTVO bot Privacy Policy
+## Privacy Policy
 
-[Yo yo](https://t.me/Babax228) operates the [DETSTVO bot](https://t.me/dp15_botbot), which provides the SERVICE.
+[Yo yo](https://t.me/Babax228) operates the [DETSTVO bot](https://t.me/dp15_botbot), which provides the SERVICE above.
 
 This page is used to inform bot visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service, the DETSTVO bot.
 
 If you choose to use our Service, then you agree to the collection and use of information in relation with this policy. The Personal Information that we collect are used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.
-
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at rislaed.github.io/privacy, unless otherwise defined in this Privacy Policy.
 
 ### Information Collection and Use
 
@@ -29,9 +27,7 @@ We want to inform our Service users that these third parties have access to your
 
 ### Payment and content receipt of content
 
-Qiwi and PayPal services are used as payment, which are used to purchase a certain product, described below as a GOAL.
-
-Purpose of these purchases is to obtain the desired content used only as part of a subscription to other channels of our Service.
+Qiwi and PayPal services are used as payment, which are used to purchase a certain product, described below as a GOAL. Purpose of these purchases is to obtain the desired content used only as part of a subscription to other channels of our Service.
 
 If you have problems with payment, you can inform us about it, but we are not responsible for the quality of the received Goal.
 
