@@ -25,7 +25,7 @@ We may employ third-party companies and individuals due to the following reasons
 
 We want to inform our Service users that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
 
-### Payment and content receipt of content
+### Payment and Content
 
 Qiwi and PayPal services are used as payment, which are used to purchase a certain product, described below as a GOAL. Purpose of these purchases is to obtain the desired content used only as part of a subscription to other channels of our Service.
 
